@@ -17,7 +17,7 @@ print("developer 1")
 print("nadun added new code")
 print("nadun added new code")
 
-print("kavinda added new code")
-print("kavinda added new code")
-print("kavinda added new code")
-print("kavinda added new code")
+
+print("nadun added new code")
+print("nadun added new code")
+
