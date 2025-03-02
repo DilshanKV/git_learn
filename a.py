@@ -7,3 +7,4 @@ s = {
 }
 
 print(s["age"])
+print(s["age"])
