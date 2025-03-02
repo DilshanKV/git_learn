@@ -1,10 +1,10 @@
-print("nadun")
+print("kavinda")
 print("nadun")
 
-s = {
-    "name":"ksvinda",
-    "age":25
-}
+a = [1,2,3]
 
-print(s["age"])
-print(s["age"])
+for i in a:
+    print(i)
+
+print("kavinda")
+print("kavinda")
