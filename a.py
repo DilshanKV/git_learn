@@ -21,5 +21,3 @@ print("kavinda added new code")
 print("kavinda added new code")
 print("kavinda added new code")
 print("kavinda added new code")
-
-gsa = [0,0,0,0]
