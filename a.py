@@ -7,3 +7,4 @@ for i in a:
     print(i)
 
 print("kavinda")
+print("kavinda")
