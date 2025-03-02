@@ -8,3 +8,5 @@ print("developer 1")
 #im adding new lines.
 
 # i deleted lots of lines
+
+list = [1,2,3]
