@@ -7,7 +7,23 @@ print("developer 1")
 
 #im adding new lines.
 
+
+# i deleted lots of lines
+
+list = [1,2,3]
+
 #i am dilshan.
 #this is my working branch.
 #i am the developer 1
+
+# im nadun.
+# i added this line
+
+print("nadun added new code")
+print("nadun added new code")
+
+print("kavinda added new code")
+print("kavinda added new code")
+print("kavinda added new code")
+print("kavinda added new code")
 
