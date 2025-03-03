@@ -1,8 +1,10 @@
+print("kavinda")
 print("nadun")
 
-k= {
-    "name":"kavinda"
-}
+a = [1,2,3]
 
-p = [1,2,3]
+for i in a:
+    print(i)
 
+print("kavinda")
+print("kavinda")
