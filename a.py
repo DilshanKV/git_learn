@@ -1,10 +1,8 @@
-print("kavinda")
 print("nadun")
 
-a = [1,2,3]
+k= {
+    "name":"kavinda"
+}
 
-for i in a:
-    print(i)
+p = [1,2,3]
 
-print("kavinda")
-print("kavinda")
