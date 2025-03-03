@@ -8,5 +8,3 @@ for i in a:
 
 print("kavinda")
 print("kavinda")
-
-
