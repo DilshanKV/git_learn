@@ -6,3 +6,6 @@ for i in [1,2]:
 print("kavinda")
 
 asd = 3
+
+if True:
+    print(123)
