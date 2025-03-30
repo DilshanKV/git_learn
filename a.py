@@ -9,3 +9,5 @@ asd = 3
 
 for i in [1,2]:
     print(i)
+for i in [1,2]:
+    print(i)
